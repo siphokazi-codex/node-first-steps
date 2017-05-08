@@ -1,0 +1,10 @@
+function greet (name){
+ 
+var detail = "Hello, " + name;
+  	//console.log(detail);
+  return detail;
+}
+
+var msg = greet('Xola')
+
+console.log(msg)
